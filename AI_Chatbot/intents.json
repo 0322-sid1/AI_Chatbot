@@ -1,0 +1,6 @@
+{
+  "greeting": ["hi", "hello", "hey", "good morning"],
+  "goodbye": ["bye", "see you", "good night"],
+  "weather": ["weather today", "is it hot", "weather forecast"],
+  "name": ["what is your name", "who are you"]
+}
